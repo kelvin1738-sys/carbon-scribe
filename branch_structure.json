@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "add-env-validation",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "add-env-validation": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "add-env-validation",
+    "origin"
+  ]
+}
